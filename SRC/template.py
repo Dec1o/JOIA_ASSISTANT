@@ -21,18 +21,8 @@ Principais pontos de análise prioritária para desenvolvimento da tratativa de 
 •	Data da Disputa 
 •	Garantia de Execução/Seguro Garantia
 •	Ponto a Ponto
-•	Retenção de mídia
-•	Cadeados
-•	VMWare
-•	Ata de Registro de Preços
 •	Vistoria
 •	Exige Amostra
-•	Faturamento Matriz/Filial
-•	Prazo pra envio de proposta
-•	Prazo de Interposição de recurso
-•	Atestados de Capacidade Técnica
-•	Quem é o Pregoeiro
-•	CRC – Certificado de Registro Cadastral
 •	Qual a Garantia exigida
 •	Permite Registro de Oportunidade
 •	Prazo de Entrega
