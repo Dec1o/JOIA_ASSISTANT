@@ -9,14 +9,7 @@ Principais pontos de análise prioritária para desenvolvimento da tratativa de 
 •	Lei regente
 •	Modo de disputa 
 •	Tipo de disputa
-•	Serviços de Instalação 
-•	Operação assistida
-•	Logomarca no Chassi
-•	Logomarca na BIOS
-•	Serviço de imagem.
 •	Valor estimado
-•	Declarações Técnicas
-•	Comprovações Técnicas
 •	Data limite para envio dos esclarecimentos
 •	Data da Disputa 
 •	Garantia de Execução/Seguro Garantia
